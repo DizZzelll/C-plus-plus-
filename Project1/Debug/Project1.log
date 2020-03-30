@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(116,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(117,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(118,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(119,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(120,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(121,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(122,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(123,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(124,11): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(156,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(157,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(158,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(159,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(160,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(161,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(162,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(163,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(164,12): warning C4129:: неизвестная escape-последовательность
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(180,17): warning C4101: mas: неиспользованная локальная переменная
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(181,16): warning C4101: cena: неиспользованная локальная переменная
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(181,6): warning C4101: day: неиспользованная локальная переменная
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(180,8): warning C4101: tip: неиспользованная локальная переменная
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(183,7): warning C4101: ch: неиспользованная локальная переменная
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(181,11): warning C4101: god: неиспользованная локальная переменная
+C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Project1\Source.cpp(216): warning C4715: del_tex: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\andre\OneDrive\Рабочий стол\Loskutov\Debug\Project1.exe
